@@ -1,31 +1,40 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hwiwon's%20profile&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Hwiwon's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 ### 👋 안녕하세요 / Hello 👋
 
-📔 전공/Major : 심리학 / Psychology
-
-⚽ 취미/hobby : 축구, 노래, 기타 / Soccer, singing, playing guitar
-
-✨ 특이사항/Specialty : 멜번에서 6년 거주 / Stayed in Melbourne, Australia for 6 years
-
-📚 싸피/SSAFY : 파이썬 열심히 배울 준비 중
-
-💎 목표/Goals 
-
+|What?|What Exactly?|
+|---:|:---:|
+|📜 대학/Univercity : | 충북대학교 / Chungbuk National Univercity|
+|📔 전공/Major : | 심리학 / Psychology |
+|⚽ 취미/hobby : | 축구, 노래, 기타, 게임 / Soccer, singing, playing guitar, game|
+|📚 싸피/SSAFY : | 파이썬 열심히 배울 준비 중|
+|💎 목표/Goals | 
 1. SSAFY 무사히 졸업/Graduate SSAFY
-
 2. HRD 직무 취업 / Work as HRD-er
-
 3. 축구 관련 회사 찾기 / Get into soccer related company
 
 
 
-![Static Badge](https://img.shields.io/badge/online-5CE75C?style=flat-square&logo=FIFA&logoColor=white)
+✨ 특이사항/Special note
+
+- 전문상담교사 2급 자격증 취득
+
+- OPI IM 등급
+
+- TOEIC 960
+
+- 스포츠마사지 교육 1년 수료
+
+- KBS청주 '토크배틀 담담' 출연
+
+- 청주 전역 버스킹 다수
 
 
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer)
 
 
 SWEA 문제풀이 진척도
@@ -54,3 +63,7 @@ SWEA 문제풀이 진척도
 [x] 2025
 
 [ ] 2029
+
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwonnyboi%2Fwonnyboi&count_bg=%23E062DE&title_bg=%23B900C8&icon=cliqz.svg&icon_color=%23FFFFFF&title=Hello&edge_flat=false)](https://hits.seeyoufarm.com)
