@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Hwiwon's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hwiwon's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
-### 👋 안녕하세요 / Hello 👋
+<center>   👋 안녕하세요 / Hello 👋  </center> 
 
 |What?|What Exactly?|
 |---:|:---:|
@@ -8,25 +8,24 @@
 |📔 전공/Major : | 심리학 / Psychology |
 |⚽ 취미/hobby : | 축구, 노래, 기타, 게임 / Soccer, singing, playing guitar, game|
 |📚 싸피/SSAFY : | 파이썬 열심히 배울 준비 중|
-|💎 목표/Goals | 
+
+-------------------
+
+<center> 💎 목표/Goals 💎  </center> 
+
 1. SSAFY 무사히 졸업/Graduate SSAFY
 2. HRD 직무 취업 / Work as HRD-er
 3. 축구 관련 회사 찾기 / Get into soccer related company
 
 
 
-✨ 특이사항/Special note
+✨ 특이사항/Special note ✨
 
 - 전문상담교사 2급 자격증 취득
-
 - OPI IM 등급
-
 - TOEIC 960
-
 - 스포츠마사지 교육 1년 수료
-
 - KBS청주 '토크배틀 담담' 출연
-
 - 청주 전역 버스킹 다수
 
 
