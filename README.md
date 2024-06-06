@@ -7,23 +7,19 @@
 |📜 대학/Univercity : | 충북대학교 / Chungbuk National Univercity|
 |📔 전공/Major : | 심리학 / Psychology |
 |⚽ 취미/hobby : | 축구, 노래, 기타, 게임 / Soccer, singing, playing guitar, game|
-|📚 싸피/SSAFY : | 파이썬 열심히 배울 준비 중|
+|📚 싸피/SSAFY : | 삼성 청년 SW 아카데미 자율 프로젝트 전국 결선 1등 / Samsung Software Academy for Youth, Contest for Final Project 1st Place / 159 teams |
 
 -------------------
 
 <center> 💎 목표/Goals 💎  </center> 
 
-1. SSAFY 무사히 졸업/Graduate SSAFY
-2. HRD 직무 취업 / Work as HRD-er
-3. 축구 관련 회사 찾기 / Get into soccer related company
-4. 백준 골드 달성하기 / Get Gold Tier in Baekjoon
 
 
 
 ✨ 특이사항/Special note ✨
 
 - 전문상담교사 2급 자격증 취득
-- OPI IM 등급
+- OPI AM 등급
 - TOEIC 960
 - 스포츠마사지 교육 1년 수료
 - KBS청주 '토크배틀 담담' 출연
@@ -37,32 +33,6 @@
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer)
 
 
-SWEA 문제풀이 진척도
-------------
-
-난이도 1
---------
-[x] 1936
-
-[x] 2058
-
-[x] 2063
-
-[x] 2068
-
-[x] 2072
-
-[x] 1545
-
-[x] 2019
-
-[x] 1933
-
-[x] 1938
-
-[x] 2025
-
-[ ] 2029
 
 백준 현재 티어
 -----
