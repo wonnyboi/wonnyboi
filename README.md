@@ -21,6 +21,7 @@
 #### App
 ![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=Firebase&logoColor=white) 
 
 #### Little AI
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -30,7 +31,8 @@
 #### Little BE
 ![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-#### Little Statistics
+
+#### Tiny Statistics
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 #### Co-op Tools
@@ -75,6 +77,8 @@
 
 #### Library
 ![H3](https://img.shields.io/badge/h3-1E54B7?style=for-the-badge&logo=h3&logoColor=white)
+![Kafka](https://img.shields.io/badge/ApacheKafka-231f20?style=for-the-badge&logo=ApacheKafka&logoColor=white)
+
 
 #### Cloud
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
