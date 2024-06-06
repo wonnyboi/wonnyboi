@@ -1,24 +1,33 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hwiwon's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
-<center>   👋 안녕하세요 / Hello 👋  </center> 
+# <center>👋 안녕하세요 / Hello 👋</center> 
+
+### FE 개발자 정휘원 입니다!
+#### (AI 찍먹)
 
 |What?|What Exactly?|
 |---:|:---:|
 |📜 대학/Univercity : | 충북대학교 / Chungbuk National Univercity|
 |📔 전공/Major : | 심리학 / Psychology |
 |⚽ 취미/hobby : | 축구, 노래, 기타, 게임 / Soccer, singing, playing guitar, game|
-|📚 싸피/SSAFY : | 삼성 청년 SW 아카데미 자율 프로젝트 전국 결선 1등 / Samsung Software Academy for Youth, Contest for Final Project 1st Place / 159 teams |
+|📚 싸피/SSAFY : | 삼성 청년 SW 아카데미 자율 프로젝트 전국 결선 1등 (1st/159teams) <br/>Samsung Software Academy for Youth, Contest for Final Project 1st Place (1st/159teams)|
 
--------------------
 
-<center> 💎 목표/Goals 💎  </center> 
+---
+
+
+
+### <center>    :speech_balloon: 언어 및 프레임 워크 / Languages & FrameWorks :speech_balloon: </center>
+
+---
+### <center> 💎 목표/Goals 💎  </center> 
 
 
 
 
 ✨ 특이사항/Special note ✨
 
-- 전문상담교사 2급 자격증 취득
+- 전문상담교사 2급 
 - OPI AM 등급
 - TOEIC 960
 - 스포츠마사지 교육 1년 수료
