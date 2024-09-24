@@ -12,7 +12,4 @@ const rl = readline
     str = input[0];
     n = Number(input[1]);
     console.log(str.repeat(n));
-    // for (let i = 0; i < n; i++) {
-    //   console.log(str);
-    // }
   });
